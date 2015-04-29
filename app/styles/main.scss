@@ -7,6 +7,13 @@ body {
   color: #333;
 }
 
+.logo {
+  background: url('/images/main/logo.png') no-repeat;
+  display: block;
+  height: 250px;
+  margin: 0 auto;
+  width: 465px;
+}
 .hero-unit {
   margin: 50px auto 0 auto;
   width: 300px;
